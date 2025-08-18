@@ -35,6 +35,9 @@ importers:
       tailwindcss:
         specifier: ^4.1.3
         version: 4.1.12
+      tiny-slider:
+        specifier: ^2.9.4
+        version: 2.9.4
       tiny-slider-react:
         specifier: ^0.5.7
         version: 0.5.7
