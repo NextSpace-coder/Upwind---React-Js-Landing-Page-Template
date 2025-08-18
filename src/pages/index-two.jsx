@@ -58,7 +58,7 @@ export default function IndexTwo() {
                                     </div>
                                     <div className="mb-5">
                                         <label className="dark:text-white">Phone No.</label>
-                                        <input name="number" id="phNumber" className="form-input w-full py-2 px-3 border border-gray-200 dark:border-gray-800 focus:ring-0 focus:border-orange-600/50 dark:bg-slate-900 dark:text-slate-200 rounded h-10 outline-none mt-2" placeholder="+12 12458 854" />
+                                        <input name="number" id="phNumber" className="form-input w-full py-2 px-3 border border-gray-200 dark:border-gray-800 focus:ring-0 focus:border-orange-600/50 dark:bg-slate-900 dark:text-slate-200 rounded h-10 outline-none mt-2" placeholder="+1 (555) 123-4567" />
                                     </div>
                                     <Link to="#" className="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md w-full">Free Trial</Link>
                                 </div>
